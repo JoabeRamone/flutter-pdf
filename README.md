@@ -1,4 +1,4 @@
-# flutter_app_pdf
+# Aplicativo em Flutter para criar, visualizar e compartilhar PDF
 
 A new Flutter application.
 
